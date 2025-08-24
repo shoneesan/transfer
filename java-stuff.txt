@@ -1,0 +1,4 @@
+SETTING UP JAVA 24
+https://stackoverflow.com/questions/14119983/java-home-and-path-are-set-but-java-version-still-shows-the-old-one
+https://jdk.java.net/24/
+https://ubuntuhandbook.org/index.php/2025/03/install-openjdk-24-ubuntu/
